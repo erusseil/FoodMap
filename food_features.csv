@@ -1,0 +1,4 @@
+name,acide,alcool,amer,boisson,chaleur,cher_a_acheter,cher_a_faire,couleur,croust,cuit,dessert,difficile,entree,epice,feculent,fruit,gras,legume,lendemain,liquide,lourd,odeur,oeuf,petitdej,piquant,plat,poisson,sain,saison,sale,sec,seul,snack,sucre,viande
+Pork Ribs,1,1,0,0,-2,7,6,0,6,100,0,0,1,1,0,0,2,0,1,9,1,1,0,0,2,1,0,-5,0,2,6,1,0,0,1
+Potato Gratin,0,0,0,0,1,5,7,0,4,100,0,0,1,1,1,0,1,1,1,10,1,1,0,0,0,1,0,2.,0,1,4,1,0,1,0
+Potato Skins,0,0,1,0,1,4,5,0,8,90,0,0,1,1,1,0,1,1,1,8,1,1,0,1,1,1,0,4,0,2,7,1,1,0,0
